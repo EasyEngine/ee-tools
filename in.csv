@@ -1,0 +1,94 @@
+,rtcamp.com/rtmedia/docs,,docs.rtcamp.com/rtmedia/
+,,,
+Site-Admin Docs,https://rtcamp.com/rtmedia/docs/admin/,,http://docs.rtcamp.com/rtmedia/
+Upgrading from rtMedia 3.2.x to 3.3.x,https://rtcamp.com/rtmedia/docs/admin/upgrading-rtmedia-3-2-to-3-3/,,http://docs.rtcamp.com/rtmedia/upgrading/upgrading-rtmedia-3-2-to-3-3/
+Upgrading To rtMedia 3.5,https://rtcamp.com/rtmedia/docs/admin/upgrading-to-rtmedia-3-5/,,http://docs.rtcamp.com/rtmedia/upgrading/upgrading-to-rtmedia-3-5/
+Settings,https://rtcamp.com/rtmedia/docs/admin/rtmedia-settings/,,http://docs.rtcamp.com/rtmedia/addons/settings/
+General,https://rtcamp.com/rtmedia/docs/admin/rtmedia-settings/general/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/settings/display/
+Types,https://rtcamp.com/rtmedia/docs/admin/rtmedia-settings/types/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/settings/types/
+Sizes,https://rtcamp.com/rtmedia/docs/admin/rtmedia-settings/sizes-settings/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/settings/image-sizes/
+Privacy,https://rtcamp.com/rtmedia/docs/admin/rtmedia-settings/privacy-rtmedia/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/settings/privacy
+BuddyPress,https://rtcamp.com/rtmedia/docs/admin/rtmedia-settings/buddypress/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/settings/buddypress/
+Global Albums,https://rtcamp.com/rtmedia/docs/admin/rtmedia-settings/global-albums/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/features/global-albums/
+Moderation,https://rtcamp.com/rtmedia/docs/admin/rtmedia-settings/moderation/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/settings/moderation/
+bbPress,https://rtcamp.com/rtmedia/docs/admin/rtmedia-settings/bbpress/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/settings/bbpress/
+Addons,https://rtcamp.com/rtmedia/docs/admin/addons/,,http://docs.rtcamp.com/rtmedia/addons/
+Audio/Video Encoding,https://rtcamp.com/rtmedia/docs/admin/addons/audio-video-encoding/,,http://docs.rtcamp.com/rtmedia/getting-started/audio-video-encoding/
+Support,https://rtcamp.com/rtmedia/docs/admin/support/,,http://docs.rtcamp.com/rtmedia/support
+bbPress Support,https://rtcamp.com/rtmedia/docs/admin/bbpress-support/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/settings/bbpress/
+"CubePoints, myCRED Integration",https://rtcamp.com/rtmedia/docs/admin/cubepoints-mycred-integration/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/features/cubepoints-mycred-integration/
+Report abuse and moderation tools,https://rtcamp.com/rtmedia/docs/admin/report-abuse-and-moderation-tools/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/features/report-button-moderation-tools/
+Download button for media and other file types,https://rtcamp.com/rtmedia/docs/admin/download-button-media/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/features/features-part-2/download-button-media/
+Shortcodes,https://rtcamp.com/rtmedia/docs/admin/shortcodes/,,http://docs.rtcamp.com/rtmedia/features/shortcodes/
+Sidebar widgets,https://rtcamp.com/rtmedia/docs/admin/sidebar-widgets/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/features/sidebar-widgets/
+Sidebar widgets: Galleries,https://rtcamp.com/rtmedia/docs/admin/sidebar-widgets/galleries/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/features/sidebar-widgets/galleries/
+Sidebar widgets: Uploaders,https://rtcamp.com/rtmedia/docs/admin/sidebar-widgets/uploaders/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/features/sidebar-widgets/uploaders/
+Post-editor shortcode button,https://rtcamp.com/rtmedia/docs/admin/posteditor-shortcode-button/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/features/post-editor-button/
+Post-editor shortcode button: Galleries,https://rtcamp.com/rtmedia/docs/admin/posteditor-shortcode-button/galleries/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/features/post-editor--button/galleries/
+Remove post-editor shortcode button,https://rtcamp.com/rtmedia/docs/admin/posteditor-shortcode-button/remove-post-editor-shortcode-button/,,http://docs.rtcamp.com/rtmedia/developer/remove-post-editor-shortcode-button/
+Post-editor shortcode button: Uploaders,https://rtcamp.com/rtmedia/docs/admin/posteditor-shortcode-button/uploaders/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/features/post-editor-button/uploaders/
+Regenerate Video Thumbnails,https://rtcamp.com/rtmedia/docs/admin/regenerate-video-thumbnails/,,http://docs.rtcamp.com/rtmedia/admin/regenerate-video-thumbnails/
+Featured Media,https://rtcamp.com/rtmedia/docs/admin/featured-media/,,http://docs.rtcamp.com/rtmedia/developer/featured-media/
+Migrating media from GD bbPress Attachments to rtMedia,https://rtcamp.com/rtmedia/docs/admin/migrating-media-from-gd-bbpress-attachments-to-rtmedia/,,http://docs.rtcamp.com/rtmedia/troubleshooting/migrating-media-from-gd-bbpress-attachments-to-rtmedia/
+Migration from BuddyPress-Media 2.x to rtMedia 3.x,https://rtcamp.com/rtmedia/docs/admin/migration-buddypress-media-2-rtmedia-3/,,http://docs.rtcamp.com/rtmedia/troubleshooting/migration-buddypress-media-2-rtmedia-3/
+Developer Documentation,https://rtcamp.com/rtmedia/docs/developer/,,http://docs.rtcamp.com/rtmedia/developer/
+Database Description,https://rtcamp.com/rtmedia/docs/developer/database-description/,,http://docs.rtcamp.com/rtmedia/developer/database-description/
+Templating System,https://rtcamp.com/rtmedia/docs/developer/templating-system/,,http://docs.rtcamp.com/rtmedia/developer/themes/templating-system/
+BuddyPress theme media tab,https://rtcamp.com/rtmedia/docs/developer/templating-system/theme-media-tab/,,http://docs.rtcamp.com/rtmedia/developer/themes/templating-system/theme-media-tab/
+scroll bar missing in media tab,https://rtcamp.com/rtmedia/docs/developer/templating-system/scroll-bar-missing-in-media-tab/,,http://docs.rtcamp.com/rtmedia/developer/themes/templating-system/scroll-bar-missing-media-tab/
+rtMedia API,https://rtcamp.com/rtmedia/docs/developer/rtmedia-api/,,http://docs.rtcamp.com/rtmedia/developer/api
+Endpoints,https://rtcamp.com/rtmedia/docs/developer/rtmedia-api/endpoints/,,http://docs.rtcamp.com/rtmedia/developer/api/rtmedia-api/endpoints/
+Upload Endpoint,https://rtcamp.com/rtmedia/docs/developer/rtmedia-api/endpoints/upload-endpoint/,,http://docs.rtcamp.com/rtmedia/developer/api/rtmedia-api/endpoints/upload-endpoint/
+Conditional Tags,https://rtcamp.com/rtmedia/docs/developer/conditional-tags/,,http://docs.rtcamp.com/rtmedia/developer/conditional-tags/
+JSON API,https://rtcamp.com/rtmedia/docs/developer/json-api/,,http://docs.rtcamp.com/rtmedia/developer/api/json-api/
+Reordering Media tab in BuddyPress,https://rtcamp.com/rtmedia/docs/developer/reordering-media-tab-buddypress/,,http://docs.rtcamp.com/rtmedia/developer/reordering-media-tab-buddypress/
+rtMedia Defined Constants,https://rtcamp.com/rtmedia/docs/developer/rtmedia-defined-constants/,,http://docs.rtcamp.com/rtmedia/developer/rtmedia-defined-constants/
+rtMedia Hooks,https://rtcamp.com/rtmedia/docs/developer/rtmedia-hooks/,,http://docs.rtcamp.com/rtmedia/developer/hooks/rtMedia-hooks
+rtmedia_add_edit_fields,https://rtcamp.com/rtmedia/docs/developer/rtmedia-hooks/rtmedia_add_edit_fields/,,http://docs.rtcamp.com/rtmedia/developer/hooks/rtMedia-hooks/rtmedia_add_edit_fields
+rtmedia_after_update_media,https://rtcamp.com/rtmedia/docs/developer/rtmedia-hooks/rtmedia_after_update_media/,,http://docs.rtcamp.com/rtmedia/developer/hooks/rtmedia-hooks/rtmedia_after_update_media/
+rtmedia_allowed_types,https://rtcamp.com/rtmedia/docs/developer/rtmedia-hooks/rtmedia_allowed_types/,,http://docs.rtcamp.com/rtmedia/developer/hooks/rtmedia-hooks/rtmedia_allowed_types/
+Core Concepts,https://rtcamp.com/rtmedia/docs/core-concepts/,,http://docs.rtcamp.com/rtmedia/developer/
+Context,https://rtcamp.com/rtmedia/docs/core-concepts/context/,,http://docs.rtcamp.com/rtmedia/developer/context/
+End-User Documentation,https://rtcamp.com/rtmedia/docs/user/,,http://docs.rtcamp.com/rtmedia/
+bbPress attachments in topics/replies,https://rtcamp.com/rtmedia/docs/user/bbpress-attachments-topics-replies/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/features/features-part-2/attach-media-to-activity-updates/
+Move media between albums,https://rtcamp.com/rtmedia/docs/user/move-media-albums/,,http://docs.rtcamp.com/rtmedia/features/manage/
+BuddyPress integration,https://rtcamp.com/rtmedia/docs/user/buddypress-integration/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/settings/buddypress/
+Attach media to activity updates,https://rtcamp.com/rtmedia/docs/user/buddypress-integration/attach-media-to-activity-updates/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/features/features-part-2/attach-media-to-activity-updates/
+Media and albums in BuddyPress profiles/groups,https://rtcamp.com/rtmedia/docs/user/buddypress-integration/media-albums-buddypress/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/features/features-part-2/media-albums-buddypress/
+Viewing and managing albums,https://rtcamp.com/rtmedia/docs/user/buddypress-integration/viewing-managing-albums/,,http://docs.rtcamp.com/rtmedia/features/manage/
+rtMedia with WordPress,https://rtcamp.com/rtmedia/docs/user/rtmedia-wordpress/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/settings/wordpress/
+Anywhere gallery,https://rtcamp.com/rtmedia/docs/user/rtmedia-wordpress/anywhere-gallery/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/features/features-part-2/anywhere-gallery/
+Anywhere uploader,https://rtcamp.com/rtmedia/docs/user/rtmedia-wordpress/anywhere-uploader/,,http://docs.rtcamp.com/rtmedia/features/upload-media/
+Sidebar widgets,https://rtcamp.com/rtmedia/docs/user/rtmedia-wordpress/sidebar-widgets/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/settings/sidebar-widgets/
+Sidebar widgets: Galleries,https://rtcamp.com/rtmedia/docs/user/rtmedia-wordpress/sidebar-widgets/sidebar-widgets-galleries/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/settings/sidebar-widgets/sidebar-widgets-galleries/
+Sidebar widgets: Uploaders,https://rtcamp.com/rtmedia/docs/user/rtmedia-wordpress/sidebar-widgets/sidebar-widgets-uploaders/,,https://rtcamp.com/rtmedia/docs/user/rtmedia-wordpress/sidebar-widgets/sidebar-widgets-uploaders/
+Set media as featured,https://rtcamp.com/rtmedia/docs/user/set-media-featured/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/features/features-part-2/set-media-featured/
+Set image as profile picture,https://rtcamp.com/rtmedia/docs/user/set-image-as-profile-picture/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/features/features-part-2/set-image-as-profile-picture/
+Set image as album cover,https://rtcamp.com/rtmedia/docs/user/set-image-as-album-cover/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/features/features-part-2/set-image-as-album-cover/
+Star ratings,https://rtcamp.com/rtmedia/docs/user/star-ratings/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/features/star-ratings/
+Edit media or other files,https://rtcamp.com/rtmedia/docs/user/edit-media/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/features/features-part-2/edit-media/
+Like button for media,https://rtcamp.com/rtmedia/docs/user/like-button-for-media/,,http://docs.rtcamp.com/rtmedia/features/like/
+Playlists for audio,https://rtcamp.com/rtmedia/docs/user/playlists-audio/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/features/playlists-audio/
+Delete media or any file,https://rtcamp.com/rtmedia/docs/user/delete-media-or-any-file/,,http://docs.rtcamp.com/rtmedia/features/delete/
+Download media or other files,https://rtcamp.com/rtmedia/docs/user/download-media-or-other-files/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/features/download-button-media/
+Set a default thumbnail for videos,https://rtcamp.com/rtmedia/docs/user/set-a-default-thumbnail-for-videos/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/features/features-part-2/set-a-default-thumbnail-for-videos/
+Album privacy,https://rtcamp.com/rtmedia/docs/user/album-privacy/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/features/album-privacy/
+Reward points,https://rtcamp.com/rtmedia/docs/user/reward-points/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/features/features-part-2/reward-points/
+Report abuse,https://rtcamp.com/rtmedia/docs/user/report-abuse/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/settings/moderation/
+Add-ons,https://rtcamp.com/rtmedia/docs/addons/,,http://docs.rtcamp.com/rtmedia/addons/
+Instagram Add-on Installation and Troubleshooting,https://rtcamp.com/rtmedia/docs/addons/instagram-effect/,,http://docs.rtcamp.com/rtmedia/addons/rtmedia-instagram/
+Photo Tagging,https://rtcamp.com/rtmedia/docs/addons/photo-tagging/,,http://docs.rtcamp.com/rtmedia/addons/photo-tagging/
+Common,https://rtcamp.com/rtmedia/docs/common/,,http://docs.rtcamp.com/rtmedia/getting-started/
+Getting started with rtMedia,https://rtcamp.com/rtmedia/docs/common/getting-started-rtmedia/,,http://docs.rtcamp.com/rtmedia/getting-started/
+Translations,https://rtcamp.com/rtmedia/docs/common/translations/,,http://docs.rtcamp.com/rtmedia/contribute/translations/
+Shortcodes,https://rtcamp.com/rtmedia/docs/common/shortcodes/,,http://docs.rtcamp.com/rtmedia/features/shortcodes/
+Gallery Shortcode,https://rtcamp.com/rtmedia/docs/common/shortcodes/gallery-shortcode/,,http://docs.rtcamp.com/rtmedia/features/shortcodes/gallery-shortcode/
+Uploader Shortcode,https://rtcamp.com/rtmedia/docs/common/shortcodes/uploader-shortcode/,,http://docs.rtcamp.com/rtmedia/features/shortcodes/uploader-shortcode/
+Template system,https://rtcamp.com/rtmedia/docs/common/featured-media-template-system/,,http://docs.rtcamp.com/rtmedia/developer/themes/featured-media-template-system/
+Troubleshooting,https://rtcamp.com/rtmedia/docs/troubleshooting/,,http://docs.rtcamp.com/rtmedia/troubleshooting/
+Conflict Diagnosis Guide for WordPress plugins,https://rtcamp.com/rtmedia/docs/troubleshooting/conflict-diagnosis-guide-wordpress-plugins/,,http://docs.rtcamp.com/rtmedia/troubleshooting/conflict-diagnosis-guide-wordpress-plugins/
+404 – Page not found error on clicking media tab,https://rtcamp.com/rtmedia/docs/troubleshooting/solve-404-page-not-found-error-media-tab-buddypress/,,http://docs.rtcamp.com/rtmedia/troubleshooting/solve-404-page-not-found-error-media-tab-buddypress/
+Upload progress for media remains at 0%,https://rtcamp.com/rtmedia/docs/troubleshooting/upload-progress-media-remains-0/,,http://docs.rtcamp.com/rtmedia/troubleshooting/upload-progress-media-remains-0/
+Known issues,https://rtcamp.com/rtmedia/docs/troubleshooting/known-issues/,,http://docs.rtcamp.com/rtmedia/troubleshooting/known-issues/
+Subscribers unable to modify images,https://rtcamp.com/rtmedia/docs/troubleshooting/known-issues/subscribers-unable-modify-images/,,http://docs.rtcamp.com/rtmedia/troubleshooting/known-issues/subscribers-unable-modify-images/
+How BuddyPress-Media fixed image orientation using PHP,https://rtcamp.com/rtmedia/docs/fixing-image-orientation-wordpress-uploads/,,http://docs.rtcamp.com/rtmedia/troubleshooting/tutorials/fixing-image-orientation-wordpress-uploads/
